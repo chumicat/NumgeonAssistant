@@ -1,4 +1,7 @@
 # NumgeonAssistant
+* 設定影片 (Setting Video)
+[![Video Image](https://i.imgur.com/PWRrjuR.png)](https://www.youtube.com/watch?v=J7qVDdfp2ck)
+
 * 設定流程 (Process of Setting)
   1. OS Setting: At windows display scale, please set back to 100%.
      作業系統設定： Windows顯示設定請設為100%
